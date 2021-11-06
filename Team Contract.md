@@ -49,3 +49,5 @@ remediation plan in this team contract.
 ##### Yuxuan Chen yuxuan19 
 ##### Kangyu Feng kangyuf2
 ##### Xueqiang Xu xx19
+##### Ruozhen Yang ruozhen2
+
